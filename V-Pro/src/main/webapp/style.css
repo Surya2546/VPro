@@ -24,7 +24,7 @@ html, body {
   left: 0;
   width: 100%;
   text-align: center;
-  animation: slide 6s ease-in-out infinite alternate;
+  animation: slide 10s linear infinite;
 }
 
 
